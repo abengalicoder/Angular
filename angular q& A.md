@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sudheerj/angular-interview-questions/master/README.md
+https://github.com/sudheerj/angular-interview-questions/blob/master/README.md
